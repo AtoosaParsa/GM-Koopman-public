@@ -5,7 +5,7 @@ This repository contains the source code for an ongoing project on data-driven m
 </br>
 
 <p align="center">
-  <img src="https://github.com/AtoosaParsa/GM-Koopman-public/blob/8f61ffd4b955274b4a6e8157e1117d7d4c0ee73f/figures/KoopmanFramework_final.pdf"  width="700">
+  <img src="/figures/KoopmanFramework_final.pdf"  width="700">
 </p>
 
 </br>
